@@ -1,0 +1,13 @@
+﻿pet_shelter_before.py:6:80: E501 line too long (113 > 79 characters)
+pet_shelter_before.py:10:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:12:80: E501 line too long (116 > 79 characters)
+pet_shelter_before.py:18:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:26:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:29:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:33:80: E501 line too long (103 > 79 characters)
+pet_shelter_before.py:37:5: E722 do not use bare 'except'
+pet_shelter_before.py:41:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:51:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:53:26: E701 multiple statements on one line (colon)
+pet_shelter_before.py:57:1: E302 expected 2 blank lines, found 1
+pet_shelter_before.py:71:1: E305 expected 2 blank lines after class or function definition, found 1
